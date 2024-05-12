@@ -1,0 +1,2 @@
+nama: elva
+motivasi: ingin belajar automation testing
