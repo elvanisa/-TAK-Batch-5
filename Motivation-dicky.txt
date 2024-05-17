@@ -1,3 +1,2 @@
-ini file baru
-add more changes
-changes from branch
+nama: Dicky Abdul Rachmangit
+Motivasi ikut QA Engineer adalah karena ingin memperluas pengetahuan dan pekerjaan, dan tentunya memperluas pengetahuan di bidang IT.
